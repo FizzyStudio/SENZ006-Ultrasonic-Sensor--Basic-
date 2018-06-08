@@ -16,7 +16,7 @@
 
 ### Specification
 
-* Operating voltage : +5V
+- Operating voltage : +5V
 - Current: < 20mA
 - Detecting range：4cm ~ 400cm
 - Interface:  GPIO
