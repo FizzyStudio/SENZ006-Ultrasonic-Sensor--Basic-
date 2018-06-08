@@ -2,12 +2,12 @@
 
 ###### 翻译
 
-> `英文`请参考 [`这里`](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/README.md).
+> `英文`请参考 [`这里`](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/README.md).
 
-> `中文`请参考 [`这里`](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/README_CN.md).
+> `中文`请参考 [`这里`](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/README_CN.md).
 
-![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/pic/SENZ006_Front.jpg "SENZ006_Front")
-![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/pic/SENZ006_Back.jpg "SENZ006_Back")
+![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/pic/SENZ006_Front.jpg "SENZ006_Front")
+![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/pic/SENZ006_Back.jpg "SENZ006_Back")
  
 
 ### 产品介绍
@@ -39,12 +39,12 @@
 |Pin-4|GND||
 
 
-![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/pic/SENZ006_pin.jpg "引脚定义") 
+![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/pic/SENZ006_pin.jpg "引脚定义") 
 
 
 #### 连线图
 
-![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/pic/SENZ006_connect.png "连线图") 
+![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/pic/SENZ006_connect.png "连线图") 
 
 
 ### 示例代码

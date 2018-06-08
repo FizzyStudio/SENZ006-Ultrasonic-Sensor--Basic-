@@ -2,12 +2,12 @@
 
 ###### Translation
 
-> For `English`, please click [`here.`](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/README.md)
+> For `English`, please click [`here.`](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/README.md)
 
-> For `Chinese`, please click [`here.`](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/README_CN.md)
+> For `Chinese`, please click [`here.`](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/pic/SENZ006_Front.jpg "SENZ006_Front")
-![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/pic/SENZ006_Back.jpg "SENZ006_Back")
+![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/pic/SENZ006_Front.jpg "SENZ006_Front")
+![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/pic/SENZ006_Back.jpg "SENZ006_Back")
 
 ### Introduction
 
@@ -36,11 +36,11 @@
 |Pin-3|Digital pin|GPIO mode : Echo; Output|
 |Pin-4|GND||
 
-![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/pic/SENZ006_pin.jpg "Pin Definition") 
+![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/pic/SENZ006_pin.jpg "Pin Definition") 
 
 #### Connecting Diagram
 
-![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor/blob/master/pic/SENZ006_connect.png "Connecting Diagram") 
+![](https://github.com/njustcjj/SENZ006-Ultrasonic-Sensor--Basic-/blob/master/pic/SENZ006_connect.png "Connecting Diagram") 
 
 #### Sample Code
 
@@ -76,4 +76,4 @@
 	}
 
 
-### Purchasing [*SENZ006-Ultrasonic-Sensor (Basic)*](https://www.ebay.com/).
+### Purchasing [*SENZ006 Ultrasonic Sensor (Basic)*](https://www.ebay.com/).
